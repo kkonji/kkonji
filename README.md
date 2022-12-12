@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Namgwang's%20GitHub&fontSize=70)
+[![Gwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkonji)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkonji)](https://github.com/kkonji/github-readme-stats)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lilif)](https://solved.ac/lilif/)
+<img src="http://mazandi.herokuapp.com/api?handle=lilif&theme=warm"/>
 <!--
 **kkonji/kkonji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
